@@ -32,6 +32,6 @@ class Test1222(unittest.TestCase):
     actions = ActionChains(self.driver)
     actions.move_to_element(element, 0, 0).perform()
     self.driver.find_element(By.ID, "wrapper_wrapper").click()
-    time.sleep(8)
+    time.sleep(6)
   if __name__=="__main__":
     unittest.main()

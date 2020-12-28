@@ -1,4 +1,4 @@
-1608706416241	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofileGF7vZQ"
+﻿1608706416241	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofileGF7vZQ"
 1608706492846	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofile0eki1L"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 Can't find symbol 'eglSetDamageRegionKHR'.
@@ -153,6 +153,18 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1608813642888	Marionette	WARN	TLS certificate errors will be ignored for this session
 1608813657122	Marionette	INFO	Stopped listening on port 50391
 JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609135516695	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofileqoFrBc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609135531096	Marionette	INFO	Listening on port 54036
+1609135531673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609135545920	Marionette	INFO	Stopped listening on port 54036
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 

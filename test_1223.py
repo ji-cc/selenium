@@ -41,7 +41,7 @@ driver.find_element_by_id("su").click()   # “百度一下” 的按钮没有na
 
 driver.find_element_by_id("kw").send_keys("三十而已")
 driver.find_element_by_id("su").click()
-time.sleep(3)
+time.sleep(2)
 # 清除百度搜索框的内容
 driver.find_element_by_id("kw").clear()
 driver.find_element_by_id("kw").send_keys("四十不惑")
