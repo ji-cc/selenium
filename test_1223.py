@@ -4,7 +4,13 @@ import time
 driver = webdriver.Firefox()   #打开浏览器
 driver.get("https://www.baidu.com/")  # 百度网页
 # 最大化浏览器
-driver.maximize_window()
+# driver.maximize_window()
+
+# 最小化浏览器
+# driver.minimize_window()
+
+# 设置浏览器的宽和高
+driver.set_window_size(400, 800)
 time.sleep(4)
 
 # # id 的定位
@@ -51,15 +57,29 @@ driver.find_element_by_id("kw").send_keys("乃万")
 driver.find_element_by_id("su").submit()
 # 设置等待时间
 # 固定等待时间
-time.sleep(10)
+# time.sleep(10)
+# 智能等待时间，页面加载完成后，不需要固定等待10s，可以立即点击
+driver.implicitly_wait(20)
+driver.find_element_by_link_text("乃万(豆瓣)").click()
 
-driver.find_element_by_partial_link_text("乃万_百度百科").click()
+# 打印信息(只能打印前一个网页的title和URL)
+# 打印title url
+title = driver.title
+print("title = "+title)
+url = driver.current_url
+print("URL = "+url)
+time.sleep(6)
+# 浏览器的滚动条拖动到最低端
+js = "var q=document.documentElement.scrollTop=100000"
+driver.execute_script(js)
+time.sleep(6)
+# 浏览器的滚动条推动到最顶端
+js0 = "var q=document.documentElement.scrollTop=0"
+driver.execute_script(js0)
 
 # text 获取文本内容
 # text = driver.find_element_by_id("s-bottom-layer-right").text
 # print(text)
-
-
 
 
 time.sleep(4)
