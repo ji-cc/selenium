@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcf6c8fc-1bb1-4edb-8a93-0fcb807f6b78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01.04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.04.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_1223.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_1223.py" afterDir="false" />
     </list>
@@ -40,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01.04">
+  <component name="RunManager" selected="Python.test_1223">
     <configuration name="01.04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,8 +85,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01.04" />
         <item itemvalue="Python.test_1223" />
+        <item itemvalue="Python.01.04" />
       </list>
     </recent_temporary>
   </component>
