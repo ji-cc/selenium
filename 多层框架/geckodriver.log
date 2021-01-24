@@ -1,0 +1,50 @@
+1611471297871	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofilehx8Lps"
+1611471351828	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofileVxrxrP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611471359635	Marionette	INFO	Listening on port 65464
+1611471359734	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: file:///F:/%E7%BC%96%E7%A8%8B/bite%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95/practice/selenium/selenium/%E5%A4%9A%E5%B1%82%E6%A1%86%E6%9E%B6/frame.html, line 8: ReferenceError: $ is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_d399f77.js, line 203: SecurityError: Permission denied to get property "href" on cross-origin object
+1611471430002	Marionette	INFO	Stopped listening on port 65464
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611471525056	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofileOpnJU3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611471533734	Marionette	INFO	Listening on port 49406
+1611471533870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///F:/%E7%BC%96%E7%A8%8B/bite%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95/practice/selenium/selenium/%E5%A4%9A%E5%B1%82%E6%A1%86%E6%9E%B6/frame.html, line 8: ReferenceError: $ is not defined
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_d399f77.js, line 203: SecurityError: Permission denied to get property "href" on cross-origin object
+1611471543217	Marionette	INFO	Stopped listening on port 49406
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611473932440	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofileAsC8Rp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611473947329	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofileK4avym"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611473954579	Marionette	INFO	Listening on port 49923
+1611473954986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///F:/%E7%BC%96%E7%A8%8B/bite%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95/practice/selenium/selenium/%E5%A4%9A%E5%B1%82%E6%A1%86%E6%9E%B6/frame.html, line 8: ReferenceError: $ is not defined
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_d399f77.js, line 203: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1611473974975	Marionette	INFO	Stopped listening on port 49923
+[Parent 11256, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

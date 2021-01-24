@@ -1,0 +1,36 @@
+1611496089659	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofileTDidkP"
+1611496112946	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofileXL1s65"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611496119628	Marionette	INFO	Listening on port 55701
+1611496120117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611496166949	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofiletbHAnZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611496174561	Marionette	INFO	Listening on port 55787
+1611496174613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611496229607	Marionette	INFO	Stopped listening on port 55787
+1611496232680	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofileCyvx1M"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611496239622	Marionette	INFO	Listening on port 55879
+1611496239889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611496387980	Marionette	INFO	Stopped listening on port 55879
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+cal\\Temp\\rust_mozprofileEygt0U"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611496378272	Marionette	INFO	Listening on port 56034
+1611496378628	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))

@@ -1,0 +1,90 @@
+1611485229226	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofileCbPBVX"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1611485238056	Marionette	INFO	Listening on port 51831
+1611485238241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///F:/%E7%BC%96%E7%A8%8B/bite%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95/practice/selenium/selenium/%E4%B8%8B%E6%8B%89%E6%A1%86%E5%A4%84%E7%90%86/drop_down.html, line 1: ReferenceError: updateShipping is not defined
+1611485244550	Marionette	INFO	Stopped listening on port 51831
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611485308883	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofilezwj7zA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611485315841	Marionette	INFO	Listening on port 51901
+1611485316063	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///F:/%E7%BC%96%E7%A8%8B/bite%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95/practice/selenium/selenium/%E4%B8%8B%E6%8B%89%E6%A1%86%E5%A4%84%E7%90%86/drop_down.html, line 1: ReferenceError: updateShipping is not defined
+1611485322072	Marionette	INFO	Stopped listening on port 51901
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611485697592	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofileN7hFJn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611485704710	Marionette	INFO	Listening on port 52034
+1611485704770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///F:/%E7%BC%96%E7%A8%8B/bite%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95/practice/selenium/selenium/%E4%B8%8B%E6%8B%89%E6%A1%86%E5%A4%84%E7%90%86/drop_down.html, line 1: ReferenceError: updateShipping is not defined
+JavaScript error: file:///F:/%E7%BC%96%E7%A8%8B/bite%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95/practice/selenium/selenium/%E4%B8%8B%E6%8B%89%E6%A1%86%E5%A4%84%E7%90%86/drop_down.html, line 1: ReferenceError: updateShipping is not defined
+1611485714092	Marionette	INFO	Stopped listening on port 52034
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611486009247	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofilexPWZMO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611486015896	Marionette	INFO	Listening on port 52582
+1611486016437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///F:/%E7%BC%96%E7%A8%8B/bite%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95/practice/selenium/selenium/%E4%B8%8B%E6%8B%89%E6%A1%86%E5%A4%84%E7%90%86/drop_down.html, line 1: ReferenceError: updateShipping is not defined
+JavaScript error: file:///F:/%E7%BC%96%E7%A8%8B/bite%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95/practice/selenium/selenium/%E4%B8%8B%E6%8B%89%E6%A1%86%E5%A4%84%E7%90%86/drop_down.html, line 1: ReferenceError: updateShipping is not defined
+1611486025693	Marionette	INFO	Stopped listening on port 52582
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611486050638	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofilec3hPgi"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611486057176	Marionette	INFO	Listening on port 52641
+1611486057320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///F:/%E7%BC%96%E7%A8%8B/bite%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95/practice/selenium/selenium/%E4%B8%8B%E6%8B%89%E6%A1%86%E5%A4%84%E7%90%86/drop_down.html, line 1: ReferenceError: updateShipping is not defined
+JavaScript error: file:///F:/%E7%BC%96%E7%A8%8B/bite%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95/practice/selenium/selenium/%E4%B8%8B%E6%8B%89%E6%A1%86%E5%A4%84%E7%90%86/drop_down.html, line 1: ReferenceError: updateShipping is not defined
+1611486069475	Marionette	INFO	Stopped listening on port 52641
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611486099849	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofilegn1P0J"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611486106553	Marionette	INFO	Listening on port 52714
+1611486107085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///F:/%E7%BC%96%E7%A8%8B/bite%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95/practice/selenium/selenium/%E4%B8%8B%E6%8B%89%E6%A1%86%E5%A4%84%E7%90%86/drop_down.html, line 1: ReferenceError: updateShipping is not defined
+1611486115984	Marionette	INFO	Stopped listening on port 52714
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611486151721	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofilebpkgve"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611486158392	Marionette	INFO	Listening on port 52786
+1611486159055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///F:/%E7%BC%96%E7%A8%8B/bite%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95/practice/selenium/selenium/%E4%B8%8B%E6%8B%89%E6%A1%86%E5%A4%84%E7%90%86/drop_down.html, line 1: ReferenceError: updateShipping is not defined
+JavaScript error: file:///F:/%E7%BC%96%E7%A8%8B/bite%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95/practice/selenium/selenium/%E4%B8%8B%E6%8B%89%E6%A1%86%E5%A4%84%E7%90%86/drop_down.html, line 1: ReferenceError: updateShipping is not defined
+1611486171385	Marionette	INFO	Stopped listening on port 52786
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

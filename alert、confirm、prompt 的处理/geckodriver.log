@@ -1,0 +1,26 @@
+1611487940809	mozrunner::runner	INFO	Running command: "G:\\火狐\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asus-pc\\AppData\\Local\\Temp\\rust_mozprofilenNIxt5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611487950399	Marionette	INFO	Listening on port 53183
+1611487950727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///F:/%E7%BC%96%E7%A8%8B/bite%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95/practice/selenium/selenium/alert%E3%80%81confirm%E3%80%81prompt%20%E7%9A%84%E5%A4%84%E7%90%86/alert.html, line 9: SyntaxError: '' string literal contains an unescaped line break
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1611496389739	Marionette	INFO	Stopped listening on port 53183
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+cal\\Temp\\rust_mozprofilewm1V31"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611491161928	Marionette	INFO	Listening on port 54378
+1611491162048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: file:///F:/%E7%BC%96%E7%A8%8B/bite%E8%B5%84%E6%96%99/%E6%B5%8B%E8%AF%95/practice/selenium/selenium/alert%E3%80%81confirm%E3%80%81prompt%20%E7%9A%84%E5%A4%84%E7%90%86/alert.html, line 9: SyntaxError: '' string literal contains an unescaped line break
+JavaScript error: http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js, line 7: TypeError: a is not a function
+1611496386905	Marionette	INFO	Stopped listening on port 54378
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
